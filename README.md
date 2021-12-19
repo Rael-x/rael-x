@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋, I'm Adebola, a web developer in 🇳🇬.
+
+### Current Stack -
+- <span style="color:green">*Vue*</span>
+- <span style="color:blue">*React*</span>
+- <span style="color:lightblue">*Typescript*</span>
 
 <!--
 **Rael-x/rael-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
