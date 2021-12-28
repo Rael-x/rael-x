@@ -1,4 +1,4 @@
-### Hi there 👋🏿, I'm Adebola, a developer in Lagos, Nigeria🇳🇬.
+### Hi there 👋🏿, I'm Adebola, a developer in Lagos, Nigeria.
 
 - 😄 Pronouns: He/him 🧒🏿
 - 🔭 I’m currently working on [Sojourner](https://sojourner.netlify.app), a JS web project 🌍.
