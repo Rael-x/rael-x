@@ -9,6 +9,6 @@ HTML5 <img height='15px' src='./icons/html.png'></img>
 - 😄 Pronouns: He/him 🧒🏿
 
   
- ![Adebola's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adebola-xyz&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&layout=compact&langs)
+ ![Adebola's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adebola-xyz&theme=dark&show_icons=true&count_private=true&hide_border=true&layout=compact&langs)
  
- ​![​Osebobo's GitHub stats​](https://github-readme-stats.vercel.app/api?username=adebola-xyz&show_icons=true&theme=radical)
+ ​![​Osebobo's GitHub stats​](https://github-readme-stats.vercel.app/api?username=adebola-xyz&show_icons=true&theme=dark)
