@@ -1,6 +1,6 @@
 ### Hi there 👋🏿, I'm Adebola, a developer in Lagos, Nigeria.
 
-- 🔭 I’m currently working on **Cellular**, a website concept for an agency promising immortality. 🌍.
+- 🔭 I’m currently working on **Cellular**, a website concept for a health agency. 🌍.
 - 🌱 I’m currently learning **Next**, a React web framework.
 - 🎓 Technologes I have learnt/am learning include React <img height='15px' src='./icons/react.png'></img>
 , Vue <img height='15px' src='./icons/vue.png'></img>, MongoDB, Typescript <img height='15px' src='./icons/ts.png'></img>, MySql <img height='15px' src='./icons/mysql.png'></img>, Vanilla Javascript <img height='15px' src='./icons/js.png'></img>, SCSS <img height='15px' src='./icons/sass.png'></img>, Bootstrap <img height='15px' src='./icons/bootstrap.png'></img>, CSS3 <img height='15px' src='./icons/css.png'></img>, and 
