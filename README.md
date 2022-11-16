@@ -3,7 +3,6 @@
 </h1>
 <h1 align=center width=20>I'm Adebola, a distracted developer with many fleeting interests.</h1>
 
-![Visitor Count](https://profile-counter.glitch.me/adebola-io/count.svg)
 
 - 🌱 I’m currently learning **Nuxt JS**, a universal framework for Vue web applications.
 - 🎓 Technologes I have learnt/am learning include:
