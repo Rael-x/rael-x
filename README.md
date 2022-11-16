@@ -1,7 +1,9 @@
 <h1 align=center>
 	Hello world! 👋🏿
 </h1>
-<h1 align=center>I'm Adebola, a distracted developer with many fleeting interests.</h1>
+<h1 align=center width=20>I'm Adebola, a distracted developer with many fleeting interests.</h1>
+
+![Visitor Count](https://profile-counter.glitch.me/adebola-io/count.svg)
 
 - 🌱 I’m currently learning **Nuxt JS**, a universal framework for Vue web applications.
 - 🎓 Technologes I have learnt/am learning include:
@@ -21,8 +23,12 @@
 - 📫 How to reach me: 
   - akomolafeoluwasefunmi@gmail.com
   - adebolaakomolafe@gmail.com
-- 😄 Pronouns: He/him 🧒🏿
-  
- ![Adebola's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adebola-io&theme=dark&show_icons=true&count_private=true&hide_border=true&layout=compact&langs)
+- 🌈 Pronouns: He/him 🧒🏿
  
- ​![​Adebola's GitHub stats​](https://github-readme-stats.vercel.app/api?username=adebola-io&show_icons=true&theme=dark)
+ <p align=center>
+ <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=adebola-io&theme=dark&show_icons=true&count_private=true&hide_border=true&layout=compact&langs"></img>
+ </p>
+ 
+ <p align=center>
+<img src="https://github-readme-stats.vercel.app/api?username=adebola-io&show_icons=true&theme=dark"></img>
+</p>
