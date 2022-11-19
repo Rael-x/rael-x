@@ -1,7 +1,7 @@
-<h1 align=center>
+<h2 align=center>
 	Hello world! 👋🏿
-</h1>
-<h1 align=center width=20>I'm Adebola, a distracted developer with many fleeting interests.</h1>
+</h2>
+<h3 align=center width=20>I'm Adebola, a distracted developer with many fleeting interests.</h3>
 
 
 - 🌱 I’m currently learning **Nuxt JS**, a universal framework for Vue web applications.
