@@ -4,13 +4,14 @@
 <h3 align=center width=20>I'm Adebola, a distracted developer with many fleeting interests.</h3>
 
 
-- 🌱 I’m currently learning **Nuxt JS**, a universal framework for Vue web applications.
+- 🌱 I’m currently learning **Pytorch**, because AI moneyyyy.
 - 🎓 Technologes I have learnt/am learning include:
      - React <img height=15 src=icons/react.png></img>
      - Vue <img height=15 src=icons/vue.png></img>
      - MongoDB <img height=15 src=icons/mongo.png></img>
      - Nextjs <img height=15 src=icons/next-js.png></img>
      - Tailwind CSS
+     - Nuxt JS 
      - Rust <img height=15 src=icons/rust-logo-64x64.png></img>
      - Typescript <img height=15 src=icons/ts.png></img>
      - MySql <img height=15 src=icons/mysql.png></img>
@@ -25,5 +26,5 @@
 - 🌈 Pronouns: He/him 🧒🏿
 
 <p align=center>
-<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=adebola-io&layout=compact&theme=dark"/>
+<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=adebola-io&layout=compact"/>
 </p>
