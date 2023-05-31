@@ -4,7 +4,7 @@
 <h3 align=center width=20>I'm Adebola, a distracted developer with many fleeting interests.</h3>
 
 
-- 🌱 I’m currently learning **Pytorch**, because AI moneyyyy.
+- 🌱 I’m currently learning Next.js 13.
 - 🎓 Technologes I have learnt/am learning include:
      - React <img height=15 src=icons/react.png></img>
      - Vue <img height=15 src=icons/vue.png></img>
@@ -26,5 +26,5 @@
 - 🌈 Pronouns: He/him 🧒🏿
 
 <p align=center>
-<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=adebola-io&layout=compact"/>
+<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=adebola-io&layout=compact&theme=dark"/>
 </p>
