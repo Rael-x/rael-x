@@ -1,5 +1,6 @@
-## Hi.
-### I'm Sefunmi, a software developer.
+## Hello.👋🏿
+
+## I'm Sefunmi, a software developer.
 
 - 📫 How to reach me:
   - adebolaakomolafe@gmail.com
