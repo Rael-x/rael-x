@@ -8,7 +8,7 @@
 - 🌈 Pronouns: He/him 
 
 <p align=center>
-<img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=adebola-io&theme=transparent&show_icons=true&count_private=true&hide_border=true&layout=donut-vertical&langs&langs_count=8&exclude_repo=allegro"/>
+<img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=adebola-io&theme=transparent&show_icons=true&count_private=true&hide_border=true&langs&langs_count=8&exclude_repo=allegro"/>
 </p>
 
 <p align=center>
